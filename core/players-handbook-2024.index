@@ -71,6 +71,11 @@
 		<file name="wizard-diviner.xml" url="https://raw.githubusercontent.com/victor-carvalho/aurora-elements/master/core/players-handbook-2024/archetypes/wizard-diviner.xml" />
 		
     <!-- backgrounds -->
+		<!-- feats -->
+		<file name="feats-epic-boons.xml" url="https://raw.githubusercontent.com/victor-carvalho/aurora-elements/master/core/players-handbook-2024/feats/feats-epic-boons.xml" />
+		<file name="feats-fighting-styles.xml" url="https://raw.githubusercontent.com/victor-carvalho/aurora-elements/master/core/players-handbook-2024/feats/feats-fighting-styles.xml" />
+		<file name="feats-general.xml" url="https://raw.githubusercontent.com/victor-carvalho/aurora-elements/master/core/players-handbook-2024/feats/feats-general.xml" />
+		<file name="feats-origin.xml" url="https://raw.githubusercontent.com/victor-carvalho/aurora-elements/master/core/players-handbook-2024/feats/feats-origin.xml" />
 
 		<!-- items -->
 
