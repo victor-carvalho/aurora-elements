@@ -70,7 +70,24 @@
 		<file name="wizard-abjurer.xml" url="https://raw.githubusercontent.com/victor-carvalho/aurora-elements/master/core/players-handbook-2024/archetypes/wizard-abjurer.xml" />
 		<file name="wizard-diviner.xml" url="https://raw.githubusercontent.com/victor-carvalho/aurora-elements/master/core/players-handbook-2024/archetypes/wizard-diviner.xml" />
 		
-    <!-- backgrounds -->
+    	<!-- backgrounds -->
+		<file name="background-acolyte.xml" url="https://raw.githubusercontent.com/victor-carvalho/aurora-elements/master/core/players-handbook-2024/backgrounds/background-acolyte.xml" />
+		<file name="background-artisan.xml" url="https://raw.githubusercontent.com/victor-carvalho/aurora-elements/master/core/players-handbook-2024/backgrounds/background-artisan.xml" />
+		<file name="background-charlatan.xml" url="https://raw.githubusercontent.com/victor-carvalho/aurora-elements/master/core/players-handbook-2024/backgrounds/background-charlatan.xml" />
+		<file name="background-criminal.xml" url="https://raw.githubusercontent.com/victor-carvalho/aurora-elements/master/core/players-handbook-2024/backgrounds/background-criminal.xml" />
+		<file name="background-entertainer.xml" url="https://raw.githubusercontent.com/victor-carvalho/aurora-elements/master/core/players-handbook-2024/backgrounds/background-entertainer.xml" />
+		<file name="background-farmer.xml" url="https://raw.githubusercontent.com/victor-carvalho/aurora-elements/master/core/players-handbook-2024/backgrounds/background-farmer.xml" />
+		<file name="background-guard.xml" url="https://raw.githubusercontent.com/victor-carvalho/aurora-elements/master/core/players-handbook-2024/backgrounds/background-guard.xml" />
+		<file name="background-guide.xml" url="https://raw.githubusercontent.com/victor-carvalho/aurora-elements/master/core/players-handbook-2024/backgrounds/background-guide.xml" />
+		<file name="background-hermit.xml" url="https://raw.githubusercontent.com/victor-carvalho/aurora-elements/master/core/players-handbook-2024/backgrounds/background-hermit.xml" />
+		<file name="background-merchant.xml" url="https://raw.githubusercontent.com/victor-carvalho/aurora-elements/master/core/players-handbook-2024/backgrounds/background-merchant.xml" />
+		<file name="background-noble.xml" url="https://raw.githubusercontent.com/victor-carvalho/aurora-elements/master/core/players-handbook-2024/backgrounds/background-noble.xml" />
+		<file name="background-sage.xml" url="https://raw.githubusercontent.com/victor-carvalho/aurora-elements/master/core/players-handbook-2024/backgrounds/background-sage.xml" />
+		<file name="background-sailor.xml" url="https://raw.githubusercontent.com/victor-carvalho/aurora-elements/master/core/players-handbook-2024/backgrounds/background-sailor.xml" />
+		<file name="background-scribe.xml" url="https://raw.githubusercontent.com/victor-carvalho/aurora-elements/master/core/players-handbook-2024/backgrounds/background-scribe.xml" />
+		<file name="background-soldier.xml" url="https://raw.githubusercontent.com/victor-carvalho/aurora-elements/master/core/players-handbook-2024/backgrounds/background-soldier.xml" />
+		<file name="background-wayfarer.xml" url="https://raw.githubusercontent.com/victor-carvalho/aurora-elements/master/core/players-handbook-2024/backgrounds/background-wayfarer.xml" />
+
 		<!-- feats -->
 		<file name="feats-epic-boons.xml" url="https://raw.githubusercontent.com/victor-carvalho/aurora-elements/master/core/players-handbook-2024/feats/feats-epic-boons.xml" />
 		<file name="feats-fighting-styles.xml" url="https://raw.githubusercontent.com/victor-carvalho/aurora-elements/master/core/players-handbook-2024/feats/feats-fighting-styles.xml" />
