@@ -80,7 +80,6 @@
 		<file name="eldritch-invocations.xml" url="https://raw.githubusercontent.com/victor-carvalho/aurora-elements/master/core/players-handbook-2024/classes/eldritch-invocations.xml" />
 		<file name="weapon-mastery-properties.xml" url="https://raw.githubusercontent.com/victor-carvalho/aurora-elements/master/core/players-handbook-2024/misc/weapon-mastery-properties.xml" />
 		<file name="expertise-skills.xml" url="https://raw.githubusercontent.com/victor-carvalho/aurora-elements/master/core/players-handbook-2024/misc/expertise-skills.xml" />
-		<!-- <file name="languages.xml" url="https://raw.githubusercontent.com/victor-carvalho/aurora-elements/master/core/players-handbook-2024/misc/languages.xml" /> -->
-		
+		<file name="languages.xml" url="https://raw.githubusercontent.com/victor-carvalho/aurora-elements/master/core/players-handbook-2024/misc/languages.xml" />
 	</files>
 </index>
