@@ -3,7 +3,7 @@
     <info>
         <name>Spells</name>
         <update version="0.2.0">
-            <file name="spells.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/xanathars-guide-to-everything/spells.xml" />
+            <file name="spells.xml" url="https://raw.githubusercontent.com/victor-carvalho/aurora-elements/master/supplements/xanathars-guide-to-everything/spells.xml" />
         </update>
     </info>
 

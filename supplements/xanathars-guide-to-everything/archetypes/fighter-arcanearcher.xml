@@ -3,7 +3,7 @@
 	<info>
 		<name>Arcane Archer</name>
 		<update version="0.1.0">
-			<file name="fighter-arcanearcher.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/xanathars-guide-to-everything/archetypes/fighter-arcanearcher.xml" />
+			<file name="fighter-arcanearcher.xml" url="https://raw.githubusercontent.com/victor-carvalho/aurora-elements/master/supplements/xanathars-guide-to-everything/archetypes/fighter-arcanearcher.xml" />
 		</update>
 	</info>
 

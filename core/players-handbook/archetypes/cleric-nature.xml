@@ -2,7 +2,7 @@
 <elements>
 	<info>
 		<update version="0.0.2">
-			<file name="cleric-nature.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/core/players-handbook/archetypes/cleric-nature.xml" />
+			<file name="cleric-nature.xml" url="https://raw.githubusercontent.com/victor-carvalho/aurora-elements/master/core/players-handbook/archetypes/cleric-nature.xml" />
 		</update>
 	</info>
 

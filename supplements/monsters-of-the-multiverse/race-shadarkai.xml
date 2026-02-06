@@ -3,7 +3,7 @@
 	<info>
 		<name>Shadar-Kai from Monsters of the Multiverse</name>
 		<update version="0.0.1">
-			<file name="race-shadarkai.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/monsters-of-the-multiverse/race-shadarkai.xml" />
+			<file name="race-shadarkai.xml" url="https://raw.githubusercontent.com/victor-carvalho/aurora-elements/master/supplements/monsters-of-the-multiverse/race-shadarkai.xml" />
 		</update>
 	</info>
 

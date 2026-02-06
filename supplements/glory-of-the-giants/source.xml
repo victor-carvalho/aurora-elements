@@ -2,7 +2,7 @@
 <elements>
 	<info>
 		<update version="0.0.1">
-			<file name="source.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/glory-of-the-giants/source.xml" />
+			<file name="source.xml" url="https://raw.githubusercontent.com/victor-carvalho/aurora-elements/master/supplements/glory-of-the-giants/source.xml" />
 		</update>
 	</info>
 	<element name="Bigby Presents: Glory of the Giants" type="Source" source="Core" id="ID_WOTC_GOTG_SOURCE_BIGBY_PRESENTS_GLORY_OF_THE_GIANTS">
@@ -23,7 +23,7 @@
 		<setters>
 			<set name="abbreviation">GOTG</set>
 			<set name="url">https://dndstore.wizards.com/us/en/product/820928/bigby-presents-glory-of-the-giants-digital-plus-physical-bundle</set>
-			<set name="image">https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/glory-of-the-giants/GOTG.png</set>
+			<set name="image">https://raw.githubusercontent.com/victor-carvalho/aurora-elements/master/supplements/glory-of-the-giants/GOTG.png</set>
 			<set name="author" abbreviation="WOTC" url="http://dnd.wizards.com">Wizards of the Coast</set>
 			<set name="official">true</set>
 			<set name="supplement">true</set>

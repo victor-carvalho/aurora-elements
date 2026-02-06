@@ -2,7 +2,7 @@
 <elements>
 	<info>
 		<update version="0.1">
-			<file name="items.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/rime-of-the-frostmaiden/items.xml" />
+			<file name="items.xml" url="https://raw.githubusercontent.com/victor-carvalho/aurora-elements/master/supplements/rime-of-the-frostmaiden/items.xml" />
 		</update>
 	</info>	
 	<element name="Snowshoes" type="Item" source="Icewind Dale: Rime of the Frostmaiden" id="ID_WOTC_IDROTF_ITEM_SNOWSHOES">

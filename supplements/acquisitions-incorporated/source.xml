@@ -2,7 +2,7 @@
 <elements>
 	<info>
 		<update version="0.0.3">
-			<file name="source.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/acquisitions-incorporated/source.xml" />
+			<file name="source.xml" url="https://raw.githubusercontent.com/victor-carvalho/aurora-elements/master/supplements/acquisitions-incorporated/source.xml" />
 		</update>
 	</info>	
 	<element name="Acquisitions Incorporated" type="Source" source="Core" id="ID_WOTC_SOURCE_ACQUISITIONS_INCORPORATED">
@@ -21,7 +21,7 @@
 		<setters>
 			<set name="abbreviation">ACQINC</set>
 			<set name="url">http://dnd.wizards.com/products/tabletop-games/rpg-products/acqinc</set>
-			<set name="image">https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/acquisitions-incorporated/ACQINC.png</set>
+			<set name="image">https://raw.githubusercontent.com/victor-carvalho/aurora-elements/master/supplements/acquisitions-incorporated/ACQINC.png</set>
 			<set name="author" abbreviation="WOTC" url="http://dnd.wizards.com">Wizards of the Coast, Penny Arcade</set>
 			<set name="official">true</set>
 			<set name="supplement">true</set>

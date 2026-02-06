@@ -5,13 +5,13 @@
 		<description>All indexs managed by the Aurora Legacy Team.</description>
 		<author url="https://github.com/AuroraLegacy/elements">Aurora Legacy Team</author>
 		<update version="0.0.1">
-			<file name="AuroraLegacy.index" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/AuroraLegacy.index" />
+			<file name="AuroraLegacy.index" url="https://raw.githubusercontent.com/victor-carvalho/aurora-elements/master/AuroraLegacy.index" />
 		</update>
 	</info>
 	<files>
-		<file name="core.index" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/core.index" />
-		<file name="supplements.index" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements.index" />
-		<file name="unearthed-arcana.index" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/unearthed-arcana.index" />
-		<file name="collaborations.index" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/collaborations.index" />
+		<file name="core.index" url="https://raw.githubusercontent.com/victor-carvalho/aurora-elements/master/core.index" />
+		<file name="supplements.index" url="https://raw.githubusercontent.com/victor-carvalho/aurora-elements/master/supplements.index" />
+		<file name="unearthed-arcana.index" url="https://raw.githubusercontent.com/victor-carvalho/aurora-elements/master/unearthed-arcana.index" />
+		<file name="collaborations.index" url="https://raw.githubusercontent.com/victor-carvalho/aurora-elements/master/collaborations.index" />
 	</files>
 </index>

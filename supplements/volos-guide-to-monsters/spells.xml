@@ -3,7 +3,7 @@
 	<info>
 		<name>Spells</name>
 		<update version="0.0.3">
-			<file name="spells.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/volos-guide-to-monsters/spells.xml" />
+			<file name="spells.xml" url="https://raw.githubusercontent.com/victor-carvalho/aurora-elements/master/supplements/volos-guide-to-monsters/spells.xml" />
 		</update>
 	</info>
 

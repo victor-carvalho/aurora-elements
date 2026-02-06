@@ -5,7 +5,7 @@
 		<description>The Order of Scribes from Tasha’s Cauldron of Everything</description>
 		<author url="http://dnd.wizards.com/products/tabletop-games/rpg-products/tashas-cauldron-everything">Tasha’s Cauldron of Everything</author>
 		<update version="0.0.1">
-			<file name="wizard-scribes.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/tashas-cauldron-of-everything/archetypes/wizard-scribes.xml" />
+			<file name="wizard-scribes.xml" url="https://raw.githubusercontent.com/victor-carvalho/aurora-elements/master/supplements/tashas-cauldron-of-everything/archetypes/wizard-scribes.xml" />
 		</update>
 	</info>
 	<element name="Order of Scribes" type="Archetype" source="Tasha’s Cauldron of Everything" id="ID_WOTC_TCOE_ARCHETYPE_WIZARD_ORDER_OF_SCRIBES">

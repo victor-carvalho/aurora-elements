@@ -2,7 +2,7 @@
 <elements>
 	<info>
 		<update version="0.0.2">
-			<file name="source.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/fizbans-treasury-of-dragons/source.xml" />
+			<file name="source.xml" url="https://raw.githubusercontent.com/victor-carvalho/aurora-elements/master/supplements/fizbans-treasury-of-dragons/source.xml" />
 		</update>
 	</info>
 	<element name="Fizban's Treasury of Dragons" type="Source" source="Core" id="ID_WOTC_FTOD_SOURCE_FIZBANS_TREASURY_OF_DRAGONS">
@@ -23,7 +23,7 @@
 		<setters>
 			<set name="abbreviation">FTOD</set>
 			<set name="url">https://dnd.wizards.com/products/treasury-dragons</set>
-			<set name="image">https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/fizbans-treasury-of-dragons/FTOD.png</set>
+			<set name="image">https://raw.githubusercontent.com/victor-carvalho/aurora-elements/master/supplements/fizbans-treasury-of-dragons/FTOD.png</set>
 			<set name="author" abbreviation="WOTC" url="http://dnd.wizards.com">Wizards of the Coast</set>
 			<set name="official">true</set>
 			<set name="supplement">true</set>

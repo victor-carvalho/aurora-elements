@@ -3,7 +3,7 @@
 	<info>
 		<name>Goliath</name>
 		<update version="0.1.8">
-			<file name="race-goliath.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/volos-guide-to-monsters/race-goliath.xml" />
+			<file name="race-goliath.xml" url="https://raw.githubusercontent.com/victor-carvalho/aurora-elements/master/supplements/volos-guide-to-monsters/race-goliath.xml" />
 		</update>
 	</info>
 

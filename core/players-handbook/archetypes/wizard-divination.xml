@@ -2,7 +2,7 @@
 <elements>
 	<info>
 		<update version="0.0.2">
-			<file name="wizard-divination.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/core/players-handbook/archetypes/wizard-divination.xml" />
+			<file name="wizard-divination.xml" url="https://raw.githubusercontent.com/victor-carvalho/aurora-elements/master/core/players-handbook/archetypes/wizard-divination.xml" />
 		</update>
 	</info>
 

@@ -3,7 +3,7 @@
 	<info>
 		<name>Alchemist Artificer Archetype</name>
 		<update version="0.0.1">
-			<file name="artificer-alchemist.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/eberron-rising-from-the-last-war/artificer-alchemist.xml" />
+			<file name="artificer-alchemist.xml" url="https://raw.githubusercontent.com/victor-carvalho/aurora-elements/master/supplements/eberron-rising-from-the-last-war/artificer-alchemist.xml" />
 		</update>
 	</info>
 

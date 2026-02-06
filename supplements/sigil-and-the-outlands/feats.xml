@@ -3,7 +3,7 @@
 	<info>
 		<name>Feats</name>
 		<update version="0.0.3">
-			<file name="feats.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/sigil-and-the-outlands/feats.xml" />
+			<file name="feats.xml" url="https://raw.githubusercontent.com/victor-carvalho/aurora-elements/master/supplements/sigil-and-the-outlands/feats.xml" />
 		</update>
 	</info>
 

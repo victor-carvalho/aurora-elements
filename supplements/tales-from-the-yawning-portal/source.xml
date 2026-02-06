@@ -2,7 +2,7 @@
 <elements>
 	<info>
 		<update version="0.1.2">
-			<file name="source.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/tales-from-the-yawning-portal/source.xml" />
+			<file name="source.xml" url="https://raw.githubusercontent.com/victor-carvalho/aurora-elements/master/supplements/tales-from-the-yawning-portal/source.xml" />
 		</update>
 	</info>
 	<element name="Tales from the Yawning Portal" type="Source" source="Core" id="ID_WOTC_SOURCE_TALES_FROM_THE_YAWNING_PORTAL">
@@ -25,7 +25,7 @@
 		<setters>
 			<set name="abbreviation">TFTYP</set>
 			<set name="url">http://dnd.wizards.com/products/tabletop-games/rpg-products/tales-yawning-portal</set>
-			<set name="image">https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/tales-from-the-yawning-portal/TFTYP.jpg</set>
+			<set name="image">https://raw.githubusercontent.com/victor-carvalho/aurora-elements/master/supplements/tales-from-the-yawning-portal/TFTYP.jpg</set>
 			<set name="errata">https://media.wizards.com/2021/dnd/downloads/TftYP-Errata.pdf</set>
 			<set name="author" abbreviation="WOTC" url="http://dnd.wizards.com">Wizards of the Coast</set>
 			<set name="official">true</set>

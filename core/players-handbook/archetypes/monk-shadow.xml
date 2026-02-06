@@ -2,7 +2,7 @@
 <elements>
 	<info>
 		<update version="0.0.1">
-			<file name="monk-shadow.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/core/players-handbook/archetypes/monk-shadow.xml" />
+			<file name="monk-shadow.xml" url="https://raw.githubusercontent.com/victor-carvalho/aurora-elements/master/core/players-handbook/archetypes/monk-shadow.xml" />
 		</update>
 	</info>
 

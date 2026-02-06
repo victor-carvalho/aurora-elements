@@ -3,12 +3,12 @@
 	<info>
 		<name>Keys From The Golden Vault</name>
 		<update version="0.0.1">
-			<file name="keys-from-the-golden-vault.index" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/keys-from-the-golden-vault.index" />
+			<file name="keys-from-the-golden-vault.index" url="https://raw.githubusercontent.com/victor-carvalho/aurora-elements/master/supplements/keys-from-the-golden-vault.index" />
 		</update>
 	</info>
 	<files>
-		<file name="items.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/keys-from-the-golden-vault/items.xml" />
+		<file name="items.xml" url="https://raw.githubusercontent.com/victor-carvalho/aurora-elements/master/supplements/keys-from-the-golden-vault/items.xml" />
 
-		<file name="source.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/keys-from-the-golden-vault/source.xml" />
+		<file name="source.xml" url="https://raw.githubusercontent.com/victor-carvalho/aurora-elements/master/supplements/keys-from-the-golden-vault/source.xml" />
 	</files>
 </index>

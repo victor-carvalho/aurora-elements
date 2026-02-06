@@ -14,7 +14,7 @@ The issue tracker is the preferred channel for content [issues](#issues) and [re
 <a name="issues"></a>
 ## Content Issues
 
-Create an [issue](https://github.com/AuroraLegacy/elements/issues/new/choose) using the _Content Issue_ template.<br>
+Create an [issue](https://github.com/victor-carvalho/aurora-elements/issues/new/choose) using the _Content Issue_ template.<br>
 A content issue might be one of the following:
 
 * missing content from an existing source <sup>1</sup>

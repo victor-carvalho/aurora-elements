@@ -3,7 +3,7 @@
 	<info>
 		<name>Fairy from Monsters of the Multiverse</name>
 		<update version="0.0.1">
-			<file name="race-fairy.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/monsters-of-the-multiverse/race-fairy.xml" />
+			<file name="race-fairy.xml" url="https://raw.githubusercontent.com/victor-carvalho/aurora-elements/master/supplements/monsters-of-the-multiverse/race-fairy.xml" />
 		</update>
 	</info>
 	<element name="Fairy" type="Race" source="Monsters of the Multiverse" id="ID_WOTC_MOTM_RACE_FAIRY">

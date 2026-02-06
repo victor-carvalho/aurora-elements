@@ -2,7 +2,7 @@
 <elements>
 	<info>
 		<update version="0.0.2">
-			<file name="background-rune-carver.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/glory-of-the-giants/backgrounds/background-rune-carver.xml" />
+			<file name="background-rune-carver.xml" url="https://raw.githubusercontent.com/victor-carvalho/aurora-elements/master/supplements/glory-of-the-giants/backgrounds/background-rune-carver.xml" />
 		</update>
 	</info>
 	<element name="Rune Carver" type="Background" source="Bigby Presents: Glory of the Giants" id="ID_WOTC_GOTG_BACKGROUND_RUNE_CARVER">

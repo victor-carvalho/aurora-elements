@@ -3,7 +3,7 @@
 	<info>
 		<name>Dragon Plus Magazine</name>
 		<update version="0.0.1">
-			<file name="dragon-plus.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/misc/dragon-plus.xml" />
+			<file name="dragon-plus.xml" url="https://raw.githubusercontent.com/victor-carvalho/aurora-elements/master/supplements/misc/dragon-plus.xml" />
 		</update>
 	</info>
 	
@@ -15,7 +15,7 @@
 		<setters>
 			<set name="abbreviation">DPM</set>
 			<set name="url">https://archive.org/details/dragonplus-magazine</set>
-			<set name="image">https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/misc/DPM.jpg</set>
+			<set name="image">https://raw.githubusercontent.com/victor-carvalho/aurora-elements/master/supplements/misc/DPM.jpg</set>
 			<set name="author" abbreviation="WOTC" url="http://dnd.wizards.com">Wizards of the Coast</set>
 			<set name="official">true</set>
 			<set name="supplement">true</set>

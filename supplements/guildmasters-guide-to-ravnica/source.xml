@@ -2,7 +2,7 @@
 <elements>
 	<info>
 		<update version="0.1.1">
-			<file name="source.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/guildmasters-guide-to-ravnica/source.xml" />
+			<file name="source.xml" url="https://raw.githubusercontent.com/victor-carvalho/aurora-elements/master/supplements/guildmasters-guide-to-ravnica/source.xml" />
 		</update>
 	</info>
 	<element name="Guildmasters’ Guide to Ravnica" type="Source" source="Core" id="ID_WOTC_SOURCE_GUILDMASTERS_GUIDE_TO_RAVNICA">
@@ -14,7 +14,7 @@
 		<setters>
 			<set name="abbreviation">GGTR</set>
 			<set name="url">http://dnd.wizards.com/products/tabletop-games/rpg-products/guildmasters-guide-ravnica</set>
-			<set name="image">https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/guildmasters-guide-to-ravnica/GGTR.jpg</set>
+			<set name="image">https://raw.githubusercontent.com/victor-carvalho/aurora-elements/master/supplements/guildmasters-guide-to-ravnica/GGTR.jpg</set>
 			<set name="author" abbreviation="WOTC" url="http://dnd.wizards.com">Wizards of the Coast</set>
 			<set name="official">true</set>
 			<set name="supplement">true</set>

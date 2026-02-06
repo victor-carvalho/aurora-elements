@@ -3,7 +3,7 @@
 	<info>
 		<name>Spells from Sigil and the Outlands</name>
 		<update version="0.0.2">
-			<file name="spells.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/sigil-and-the-outlands/spells.xml" />
+			<file name="spells.xml" url="https://raw.githubusercontent.com/victor-carvalho/aurora-elements/master/supplements/sigil-and-the-outlands/spells.xml" />
 		</update>
 	</info>
 

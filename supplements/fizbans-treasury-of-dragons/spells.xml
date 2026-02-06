@@ -5,7 +5,7 @@
 		<description>The Spells from Fizban's Treasury of Dragons</description>
 		<author url="https://dnd.wizards.com/products/treasury-dragons">Fizban's Treasury of Dragons</author>
 		<update version="0.0.1">
-			<file name="spells.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/fizbans-treasury-of-dragons/spells.xml" />
+			<file name="spells.xml" url="https://raw.githubusercontent.com/victor-carvalho/aurora-elements/master/supplements/fizbans-treasury-of-dragons/spells.xml" />
 		</update>
 	</info>
 	

@@ -5,7 +5,7 @@
 		<description>The College of Creation from Tasha’s Cauldron of Everything</description>
 		<author url="http://dnd.wizards.com/products/tabletop-games/rpg-products/tashas-cauldron-everything">Tasha’s Cauldron of Everything</author>
 		<update version="0.0.2">
-			<file name="bard-creation.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/tashas-cauldron-of-everything/archetypes/bard-creation.xml" />
+			<file name="bard-creation.xml" url="https://raw.githubusercontent.com/victor-carvalho/aurora-elements/master/supplements/tashas-cauldron-of-everything/archetypes/bard-creation.xml" />
 		</update>
 	</info>
   <element name="College of Creation" type="Archetype" source="Tasha’s Cauldron of Everything" id="ID_WOTC_TCOE_ARCHETYPE_BARD_COLLEGE_OF_CREATION">

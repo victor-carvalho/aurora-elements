@@ -3,7 +3,7 @@
 	<info>
 		<name>Magic Items and Blessings from Phandelver and Below: The Shattered Obelisk</name>
 		<update version="0.0.1">
-			<file name="items.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/phandelver-and-below-the-shattered-obelisk/items.xml" />
+			<file name="items.xml" url="https://raw.githubusercontent.com/victor-carvalho/aurora-elements/master/supplements/phandelver-and-below-the-shattered-obelisk/items.xml" />
 		</update>
 	</info>
 

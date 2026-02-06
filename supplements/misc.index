@@ -3,10 +3,10 @@
 	<info>
 		<name>miscellaneous</name>
 		<update version="0.0.3">
-			<file name="misc.index" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/misc.index" />
+			<file name="misc.index" url="https://raw.githubusercontent.com/victor-carvalho/aurora-elements/master/supplements/misc.index" />
 		</update>
 	</info>
 	<files>
-		<file name="dragon-plus.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/misc/dragon-plus.xml" />
+		<file name="dragon-plus.xml" url="https://raw.githubusercontent.com/victor-carvalho/aurora-elements/master/supplements/misc/dragon-plus.xml" />
 	</files>
 </index>

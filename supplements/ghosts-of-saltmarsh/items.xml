@@ -3,7 +3,7 @@
 	<info>
 		<name>Items</name>
 		<update version="0.0.2">
-			<file name="items.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/ghosts-of-saltmarsh/items.xml" />
+			<file name="items.xml" url="https://raw.githubusercontent.com/victor-carvalho/aurora-elements/master/supplements/ghosts-of-saltmarsh/items.xml" />
 		</update>
 	</info>
 	

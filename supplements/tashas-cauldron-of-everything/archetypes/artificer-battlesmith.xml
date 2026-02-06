@@ -3,7 +3,7 @@
 	<info>
 		<name>Battle Smith Artificer Archetype</name>
 		<update version="0.0.1">
-			<file name="artificer-battlesmith.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/tashas-cauldron-of-everything/archetypes/artificer-battlesmith.xml" />
+			<file name="artificer-battlesmith.xml" url="https://raw.githubusercontent.com/victor-carvalho/aurora-elements/master/supplements/tashas-cauldron-of-everything/archetypes/artificer-battlesmith.xml" />
 		</update>
 	</info>
 

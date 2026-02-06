@@ -2,7 +2,7 @@
 <elements>
 	<info>
 		<update version="0.1.2">
-			<file name="source.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/ghosts-of-saltmarsh/source.xml" />
+			<file name="source.xml" url="https://raw.githubusercontent.com/victor-carvalho/aurora-elements/master/supplements/ghosts-of-saltmarsh/source.xml" />
 		</update>
 	</info>
 	<element name="Ghosts of Saltmarsh" type="Source" source="Core" id="ID_WOTC_SOURCE_GHOSTS_OF_SALTMARSH">
@@ -26,7 +26,7 @@
 		<setters>
 			<set name="abbreviation">GOS</set>
 			<set name="url">http://dnd.wizards.com/products/tabletop-games/rpg-products/ghosts-saltmarsh</set>
-			<set name="image">https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/ghosts-of-saltmarsh/GOS.png</set>
+			<set name="image">https://raw.githubusercontent.com/victor-carvalho/aurora-elements/master/supplements/ghosts-of-saltmarsh/GOS.png</set>
 			<set name="errata">https://media.wizards.com/2020/dnd/downloads/GoS-Errata.pdf</set>
 			<set name="author" abbreviation="WOTC" url="http://dnd.wizards.com">Wizards of the Coast</set>
 			<set name="official">true</set>

@@ -4,7 +4,7 @@ Visit the [website](http://www.aurorabuilder.com "Aurora Website") for more info
 # Aurora Legacy Project
 The goal of Aurora Legacy is to continually support Aurora Builder app with updates to content files.  <br>
 [Project's Discord Server](https://discord.gg/3n5uakXT2a "Project Discord Server"), where you can find the announcements, discuss relevant news and receive help with your homebrew files.  <br>
-Please take a moment to review the [contributing guidelines](https://github.com/AuroraLegacy/elements/blob/master/.github/CONTRIBUTING.md) when creating an issue, making a content request, or submitting a pull request.
+Please take a moment to review the [contributing guidelines](https://github.com/victor-carvalho/aurora-elements/blob/master/.github/CONTRIBUTING.md) when creating an issue, making a content request, or submitting a pull request.
 
 ## Extending Content
 Go to the _Additional Content_ tab in Aurora, enter the URL of the index file, and have Aurora download the content to the custom folder for you. When these files get updated, Aurora will be able to keep content files up to date automatically.
@@ -16,15 +16,15 @@ _**Additionally**_, old characters may require re-selecting some options, due to
 ### Download Options:
 <details>
   <summary><b>Option 1: All In One Download</b></summary>
-  • Master Index: https://raw.githubusercontent.com/AuroraLegacy/elements/master/AuroraLegacy.index
+  • Master Index: https://raw.githubusercontent.com/victor-carvalho/aurora-elements/master/AuroraLegacy.index
 </details>
 <hr style="width:750px; height:2px; margin-top:-10px; margin-bottom:5px; background-color:rgb(150,150,150)">
 <details>
   <summary><b>Option 2: Individual Indexes Download</b> </summary>
- • Core Index: https://raw.githubusercontent.com/AuroraLegacy/elements/master/core.index <b>(Required by following Indexes)</b> <br>
-  • Supplements Index: https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements.index <b>(Requires Core Index)</b> <br>
-  • Unearthed Arcana Index: https://raw.githubusercontent.com/AuroraLegacy/elements/master/unearthed-arcana.index <b>(Requires Core Index)</b> <br>
-  • Collaborations Index: https://raw.githubusercontent.com/AuroraLegacy/elements/master/collaborations.index <b>(Requires Core Index)</b>
+ • Core Index: https://raw.githubusercontent.com/victor-carvalho/aurora-elements/master/core.index <b>(Required by following Indexes)</b> <br>
+  • Supplements Index: https://raw.githubusercontent.com/victor-carvalho/aurora-elements/master/supplements.index <b>(Requires Core Index)</b> <br>
+  • Unearthed Arcana Index: https://raw.githubusercontent.com/victor-carvalho/aurora-elements/master/unearthed-arcana.index <b>(Requires Core Index)</b> <br>
+  • Collaborations Index: https://raw.githubusercontent.com/victor-carvalho/aurora-elements/master/collaborations.index <b>(Requires Core Index)</b>
 </details>
 
 ## Disclaimer

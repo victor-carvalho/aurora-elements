@@ -3,7 +3,7 @@
 	<info>
 		<name>Fairy</name>
 		<update version="0.0.2">
-			<file name="race-fairy.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/wild-beyond-the-witchlight/race-fairy.xml" />
+			<file name="race-fairy.xml" url="https://raw.githubusercontent.com/victor-carvalho/aurora-elements/master/supplements/wild-beyond-the-witchlight/race-fairy.xml" />
 		</update>
 	</info>
 	<element name="Fairy" type="Race" source="The Wild Beyond The Witchlight" id="ID_WOTC_WBW_RACE_FAIRY">

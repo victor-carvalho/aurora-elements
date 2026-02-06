@@ -2,7 +2,7 @@
 <elements>
 	<info>
 		<update version="0.0.1">
-			<file name="source.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/dragonlance-shadow-of-the-dragon-queen/source.xml" />
+			<file name="source.xml" url="https://raw.githubusercontent.com/victor-carvalho/aurora-elements/master/supplements/dragonlance-shadow-of-the-dragon-queen/source.xml" />
 		</update>
 	</info>
 	<element name="Dragonlance: Shadow of the Dragon Queen" type="Source" source="Core" id="ID_WOTC_SOURCE_DRAGONLANCE_SHADOW_OF_THE_DRAGON_QUEEN">
@@ -22,7 +22,7 @@
 		<setters>
 			<set name="abbreviation">DSDQ</set>
 			<set name="url">https://dnd.wizards.com/products/dragonlance</set>
-			<set name="image">https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/dragonlance-shadow-of-the-dragon-queen/DSDQ.png</set>
+			<set name="image">https://raw.githubusercontent.com/victor-carvalho/aurora-elements/master/supplements/dragonlance-shadow-of-the-dragon-queen/DSDQ.png</set>
 			<set name="author" abbreviation="WOTC" url="http://dnd.wizards.com">Wizards of the Coast</set>
 			<set name="official">true</set>
 			<set name="supplement">true</set>

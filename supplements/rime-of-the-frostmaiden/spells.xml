@@ -2,7 +2,7 @@
 <elements>
 	<info>
 		<update version="0.1.1">
-			<file name="spells.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/rime-of-the-frostmaiden/spells.xml" />
+			<file name="spells.xml" url="https://raw.githubusercontent.com/victor-carvalho/aurora-elements/master/supplements/rime-of-the-frostmaiden/spells.xml" />
 		</update>
 	</info>	
 	<element name="Blade of Disaster" type="Spell" source="Icewind Dale: Rime of the Frostmaiden" id="ID_WOTC_IDROTF_SPELL_BLADE_OF_DISASTER">

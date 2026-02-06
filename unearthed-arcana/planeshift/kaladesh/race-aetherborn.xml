@@ -5,7 +5,7 @@
 		<description>Aetherborn</description>
 		<author url="https://media.wizards.com/2017/downloads/magic/Plane-Shift_Kaladesh.pdf">Wizards of the Coast</author>
 		<update version="0.0.7">
-			<file name="race-aetherborn.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/unearthed-arcana/planeshift/kaladesh/race-aetherborn.xml" />
+			<file name="race-aetherborn.xml" url="https://raw.githubusercontent.com/victor-carvalho/aurora-elements/master/unearthed-arcana/planeshift/kaladesh/race-aetherborn.xml" />
 		</update>
 	</info>
 

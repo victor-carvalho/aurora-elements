@@ -2,7 +2,7 @@
 <elements>
 	<info>
 		<update version="0.0.1">
-			<file name="source.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/phandelver-and-below-the-shattered-obelisk/source.xml" />
+			<file name="source.xml" url="https://raw.githubusercontent.com/victor-carvalho/aurora-elements/master/supplements/phandelver-and-below-the-shattered-obelisk/source.xml" />
 		</update>
 	</info>
 
@@ -22,7 +22,7 @@
 		<setters>
 			<set name="abbreviation">PBSO</set>
 			<set name="url">https://dndstore.wizards.com/us/en/product/820931/phandelver-and-below-the-shattered-obelisk-digital-plus-physical-bundle</set>
-			<set name="image">https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/phandelver-and-below-the-shattered-obelisk/PBSO.png</set>
+			<set name="image">https://raw.githubusercontent.com/victor-carvalho/aurora-elements/master/supplements/phandelver-and-below-the-shattered-obelisk/PBSO.png</set>
 			<set name="author" abbreviation="WOTC" url="http://dnd.wizards.com">Wizards of the Coast</set>
 			<set name="official">true</set>
 			<set name="supplement">true</set>

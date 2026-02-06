@@ -3,7 +3,7 @@
 	<info>
         <name>Gambler</name>
 		<update version="0.0.3">
-			<file name="gambler.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/acquisitions-incorporated/backgrounds/gambler.xml" />
+			<file name="gambler.xml" url="https://raw.githubusercontent.com/victor-carvalho/aurora-elements/master/supplements/acquisitions-incorporated/backgrounds/gambler.xml" />
 		</update>
 	</info>
     <element name="Gambler" type="Background" source="Acquisitions Incorporated" id="ID_WOTC_ACQINC_BACKGROUND_GAMBLER">

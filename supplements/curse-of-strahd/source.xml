@@ -2,7 +2,7 @@
 <elements>
 	<info>
 		<update version="0.1.2">
-			<file name="source.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/curse-of-strahd/source.xml" />
+			<file name="source.xml" url="https://raw.githubusercontent.com/victor-carvalho/aurora-elements/master/supplements/curse-of-strahd/source.xml" />
 		</update>
 	</info>
 	<element name="Curse of Strahd" type="Source" source="Core" id="ID_WOTC_SOURCE_CURSE_OF_STRAHD">
@@ -13,7 +13,7 @@
 		<setters>
 			<set name="abbreviation">COS</set>
 			<set name="url">http://dnd.wizards.com/products/tabletop-games/rpg-products/curse-strahd</set>
-			<set name="image">https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/curse-of-strahd/COS.jpg</set>
+			<set name="image">https://raw.githubusercontent.com/victor-carvalho/aurora-elements/master/supplements/curse-of-strahd/COS.jpg</set>
 			<set name="errata">https://media.wizards.com/2020/dnd/downloads/CoS-Errata.pdf</set>
 			<set name="author" abbreviation="WOTC" url="http://dnd.wizards.com">Wizards of the Coast</set>
 			<set name="official">true</set>

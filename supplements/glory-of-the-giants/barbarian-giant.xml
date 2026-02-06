@@ -4,7 +4,7 @@
 		<name>Path of the Giant</name>
 		<description>The Path of the Giant from Bigby Presents: Glory of the Giants</description>
 		<update version="0.0.1">
-			<file name="barbarian-giant.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/glory-of-the-giants/barbarian-giant.xml" />
+			<file name="barbarian-giant.xml" url="https://raw.githubusercontent.com/victor-carvalho/aurora-elements/master/supplements/glory-of-the-giants/barbarian-giant.xml" />
 		</update>
 	</info>
 

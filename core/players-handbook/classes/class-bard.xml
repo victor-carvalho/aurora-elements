@@ -3,7 +3,7 @@
 	<info>
 		<name>Bard</name>
 		<update version="0.5.1">
-			<file name="class-bard.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/core/players-handbook/classes/class-bard.xml" />
+			<file name="class-bard.xml" url="https://raw.githubusercontent.com/victor-carvalho/aurora-elements/master/core/players-handbook/classes/class-bard.xml" />
 		</update>
 	</info>
 	

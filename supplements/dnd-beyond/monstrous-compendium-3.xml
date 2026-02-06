@@ -2,7 +2,7 @@
 <elements>
 	<info>
 		<update version="0.0.1">
-			<file name="monstrous-compendium-3.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/dnd-beyond/monstrous-compendium-3.xml" />
+			<file name="monstrous-compendium-3.xml" url="https://raw.githubusercontent.com/victor-carvalho/aurora-elements/master/supplements/dnd-beyond/monstrous-compendium-3.xml" />
 		</update>
 	</info>
 
@@ -13,7 +13,7 @@
 		<setters>
 			<set name="abbreviation">MCV3</set>
 			<set name="url">https://www.dndbeyond.com/claim/source/minecraft-creatures-monstrous-compendium</set>
-			<set name="image">https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/dnd-beyond/MCV3.png</set>
+			<set name="image">https://raw.githubusercontent.com/victor-carvalho/aurora-elements/master/supplements/dnd-beyond/MCV3.png</set>
 			<set name="author" abbreviation="WOTC" url="http://dnd.wizards.com">Wizards of the Coast, Mojang Studios, D&amp;D Beyond</set>
 			<set name="official">true</set>
 			<set name="supplement">true</set>

@@ -2,7 +2,7 @@
 <elements>
 	<info>
 		<update version="0.0.1">
-			<file name="heroes-feast-saving-the-childrens-menu.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/dnd-beyond/heroes-feast-saving-the-childrens-menu.xml" />
+			<file name="heroes-feast-saving-the-childrens-menu.xml" url="https://raw.githubusercontent.com/victor-carvalho/aurora-elements/master/supplements/dnd-beyond/heroes-feast-saving-the-childrens-menu.xml" />
 		</update>
 	</info>
 
@@ -17,7 +17,7 @@
 		<setters>
 			<set name="abbreviation">HFSCM</set>
 			<set name="url">https://www.dndbeyond.com/marketplace/adventures/heroes-feast-saving-the-childrens-menu</set>
-			<set name="image">https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/dnd-beyond/HFSCM.jpg</set>
+			<set name="image">https://raw.githubusercontent.com/victor-carvalho/aurora-elements/master/supplements/dnd-beyond/HFSCM.jpg</set>
 			<set name="author" abbreviation="WOTC" url="http://dnd.wizards.com">Wizards of the Coast, D&amp;D Beyond</set>
 			<set name="official">true</set>
 			<set name="supplement">true</set>

@@ -2,7 +2,7 @@
 <elements>
 	<info>
 		<update version="0.0.1">
-			<file name="replicate-infusions.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/xanathars-guide-to-everything/items/replicate-infusions.xml" />
+			<file name="replicate-infusions.xml" url="https://raw.githubusercontent.com/victor-carvalho/aurora-elements/master/supplements/xanathars-guide-to-everything/items/replicate-infusions.xml" />
 		</update>
 	</info>
 	

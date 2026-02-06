@@ -5,7 +5,7 @@
 		<description>The Drakewarden from Fizban's Treasury of Dragons</description>
 		<author url="https://dnd.wizards.com/products/treasury-dragons">Fizban's Treasury of Dragons</author>
 		<update version="0.0.2">
-			<file name="ranger-drakewarden.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/fizbans-treasury-of-dragons/archetypes/ranger-drakewarden.xml" />
+			<file name="ranger-drakewarden.xml" url="https://raw.githubusercontent.com/victor-carvalho/aurora-elements/master/supplements/fizbans-treasury-of-dragons/archetypes/ranger-drakewarden.xml" />
 		</update>
 	</info>
 	<element name="Drakewarden" type="Archetype" source="Fizban's Treasury of Dragons" id="ID_WOTC_FTOD_ARCHETYPE_RANGER_DRAKEWARDEN">

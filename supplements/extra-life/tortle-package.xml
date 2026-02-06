@@ -3,7 +3,7 @@
 	<info>
 		<name>The Tortle Package</name>
 		<update version="0.0.1">
-			<file name="tortle-package.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/extra-life/tortle-package.xml" />
+			<file name="tortle-package.xml" url="https://raw.githubusercontent.com/victor-carvalho/aurora-elements/master/supplements/extra-life/tortle-package.xml" />
 		</update>
 	</info>
 
@@ -16,7 +16,7 @@
 		<setters>
 			<set name="abbreviation">TTP</set>
 			<set name="url">https://www.dmsguild.com/product/221716/Tortle-Package-5e</set>
-			<set name="image">https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/extra-life/EL-TTP.png</set>
+			<set name="image">https://raw.githubusercontent.com/victor-carvalho/aurora-elements/master/supplements/extra-life/EL-TTP.png</set>
 			<set name="author" abbreviation="WOTC" url="http://dnd.wizards.com">Wizards of the Coast</set>
 			<set name="official">true</set>
 			<set name="supplement">true</set>

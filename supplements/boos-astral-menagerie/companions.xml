@@ -4,7 +4,7 @@
 		<name>Companion</name>
 		<description>Creatures from Boo’s Astral Menagerie, that fit rules for Companions or Familiars</description>
 		<update version="0.0.1">
-			<file name="companions.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/boos-astral-menagerie/companions.xml" />
+			<file name="companions.xml" url="https://raw.githubusercontent.com/victor-carvalho/aurora-elements/master/supplements/boos-astral-menagerie/companions.xml" />
 		</update>
 	</info>
 

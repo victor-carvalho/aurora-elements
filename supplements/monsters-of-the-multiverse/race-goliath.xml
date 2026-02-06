@@ -3,7 +3,7 @@
 	<info>
 		<name>Goliath from Monsters of the Multiverse</name>
 		<update version="0.0.1">
-			<file name="race-goliath.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/monsters-of-the-multiverse/race-goliath.xml" />
+			<file name="race-goliath.xml" url="https://raw.githubusercontent.com/victor-carvalho/aurora-elements/master/supplements/monsters-of-the-multiverse/race-goliath.xml" />
 		</update>
 	</info>
 

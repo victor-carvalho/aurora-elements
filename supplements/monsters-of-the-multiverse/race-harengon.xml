@@ -3,7 +3,7 @@
 	<info>
 		<name>Harengon from Monsters of the Multiverse</name>
 		<update version="0.0.2">
-			<file name="race-harengon.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/monsters-of-the-multiverse/race-harengon.xml" />
+			<file name="race-harengon.xml" url="https://raw.githubusercontent.com/victor-carvalho/aurora-elements/master/supplements/monsters-of-the-multiverse/race-harengon.xml" />
 		</update>
 	</info>
 	<element name="Harengon" type="Race" source="Monsters of the Multiverse" id="ID_WOTC_MOTM_RACE_HARENGON">

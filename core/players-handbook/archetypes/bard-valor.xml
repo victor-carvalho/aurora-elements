@@ -2,7 +2,7 @@
 <elements>
 	<info>
 		<update version="0.0.1">
-			<file name="bard-valor.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/core/players-handbook/archetypes/bard-valor.xml" />
+			<file name="bard-valor.xml" url="https://raw.githubusercontent.com/victor-carvalho/aurora-elements/master/core/players-handbook/archetypes/bard-valor.xml" />
 		</update>
 	</info>
 

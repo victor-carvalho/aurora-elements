@@ -2,7 +2,7 @@
 <elements>
 	<info>
 		<update version="0.0.1">
-			<file name="spells.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/astral-adventurers-guide/spells.xml" />
+			<file name="spells.xml" url="https://raw.githubusercontent.com/victor-carvalho/aurora-elements/master/supplements/astral-adventurers-guide/spells.xml" />
 		</update>
 	</info>
 

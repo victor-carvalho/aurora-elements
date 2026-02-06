@@ -2,7 +2,7 @@
 <elements>
 	<info>
 		<update version="0.1.2">
-			<file name="source.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/volos-guide-to-monsters/source.xml" />
+			<file name="source.xml" url="https://raw.githubusercontent.com/victor-carvalho/aurora-elements/master/supplements/volos-guide-to-monsters/source.xml" />
 		</update>
 	</info>
 	<element name="Volo’s Guide to Monsters" type="Source" source="Core" id="ID_WOTC_SOURCE_VOLOS_GUIDE_TO_MONSTERS">
@@ -15,7 +15,7 @@
 		<setters>
 			<set name="abbreviation">VGTM</set>
 			<set name="url">http://dnd.wizards.com/products/tabletop-games/rpg-products/volos-guide-to-monsters</set>
-			<set name="image">https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/volos-guide-to-monsters/VGTM.jpg</set>
+			<set name="image">https://raw.githubusercontent.com/victor-carvalho/aurora-elements/master/supplements/volos-guide-to-monsters/VGTM.jpg</set>
 			<set name="errata">https://media.wizards.com/2020/dnd/downloads/VGtM-Errata.pdf</set>
 			<set name="author" abbreviation="WOTC" url="http://dnd.wizards.com">Wizards of the Coast</set>
 			<set name="official">true</set>

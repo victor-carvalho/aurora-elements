@@ -2,7 +2,7 @@
 <elements>
 	<info>
 		<update version="0.0.2">
-			<file name="background-giant-foundling.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/glory-of-the-giants/backgrounds/background-giant-foundling.xml" />
+			<file name="background-giant-foundling.xml" url="https://raw.githubusercontent.com/victor-carvalho/aurora-elements/master/supplements/glory-of-the-giants/backgrounds/background-giant-foundling.xml" />
 		</update>
 	</info>
 	<element name="Giant Foundling" type="Background" source="Bigby Presents: Glory of the Giants" id="ID_WOTC_GOTG_BACKGROUND_GIANT_FOUNDLING">

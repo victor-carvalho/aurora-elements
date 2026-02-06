@@ -2,7 +2,7 @@
 <elements>
 	<info>
 		<update version="0.0.5">
-			<file name="items.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/eberron-rising-from-the-last-war/items.xml" />
+			<file name="items.xml" url="https://raw.githubusercontent.com/victor-carvalho/aurora-elements/master/supplements/eberron-rising-from-the-last-war/items.xml" />
 		</update>
 	</info>
 

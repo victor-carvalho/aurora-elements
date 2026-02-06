@@ -3,7 +3,7 @@
 	<info>
 		<name>Swashbuckler</name>
 		<update version="0.1.4">
-			<file name="archetype-swashbuckler.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/sword-coast-adventurers-guide/classes/archetype-swashbuckler.xml" />
+			<file name="archetype-swashbuckler.xml" url="https://raw.githubusercontent.com/victor-carvalho/aurora-elements/master/supplements/sword-coast-adventurers-guide/classes/archetype-swashbuckler.xml" />
 		</update>
 	</info>
 

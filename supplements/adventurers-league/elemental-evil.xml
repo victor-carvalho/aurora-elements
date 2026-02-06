@@ -2,7 +2,7 @@
 <elements>
     <info>
         <update version="0.0.3">
-            <file name="elemental-evil.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/adventurers-league/elemental-evil.xml" />
+            <file name="elemental-evil.xml" url="https://raw.githubusercontent.com/victor-carvalho/aurora-elements/master/supplements/adventurers-league/elemental-evil.xml" />
         </update>
     </info>	
 

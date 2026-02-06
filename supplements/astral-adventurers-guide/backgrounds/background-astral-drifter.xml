@@ -5,7 +5,7 @@
 		<description></description>
 		<author url="https://dnd.wizards.com/products/spelljammer">Astral Adventurer's Guide</author>
 		<update version="0.0.2">
-			<file name="background-astral-drifter.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/astral-adventurers-guide/backgrounds/background-astral-drifter.xml" />
+			<file name="background-astral-drifter.xml" url="https://raw.githubusercontent.com/victor-carvalho/aurora-elements/master/supplements/astral-adventurers-guide/backgrounds/background-astral-drifter.xml" />
 		</update>
 	</info>
 

@@ -3,7 +3,7 @@
 	<info>
 		<name>Items and Weapons</name>
 		<update version="0.0.1">
-			<file name="items.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/van-richtens-guide-to-ravenloft/items.xml" />
+			<file name="items.xml" url="https://raw.githubusercontent.com/victor-carvalho/aurora-elements/master/supplements/van-richtens-guide-to-ravenloft/items.xml" />
 		</update>
 	</info>
 

@@ -3,7 +3,7 @@
 	<info>
 		<name>Items from Critical Role: Call of the Netherdeep</name>
 		<update version="0.0.1">
-			<file name="items.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/critical-role-call-of-the-netherdeep/items.xml" />
+			<file name="items.xml" url="https://raw.githubusercontent.com/victor-carvalho/aurora-elements/master/supplements/critical-role-call-of-the-netherdeep/items.xml" />
 		</update>
 	</info>
 

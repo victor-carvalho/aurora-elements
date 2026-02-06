@@ -2,7 +2,7 @@
 <elements>
 	<info>
 		<update version="0.1.2">
-			<file name="source.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/rime-of-the-frostmaiden/source.xml" />
+			<file name="source.xml" url="https://raw.githubusercontent.com/victor-carvalho/aurora-elements/master/supplements/rime-of-the-frostmaiden/source.xml" />
 		</update>
 	</info>	
 	<element name="Icewind Dale: Rime of the Frostmaiden" type="Source" source="Core" id="ID_WOTC_SOURCE_ICEWIND_DALE_RIME_OF_THE_FROSTMAIDEN">
@@ -16,7 +16,7 @@
 		<setters>
 			<set name="abbreviation">ROTF</set>
 			<set name="url">https://dnd.wizards.com/products/tabletop-games/rpg-products/icewind-dale-rime-frostmaiden</set>
-			<set name="image">https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/rime-of-the-frostmaiden/ROTF.png</set>
+			<set name="image">https://raw.githubusercontent.com/victor-carvalho/aurora-elements/master/supplements/rime-of-the-frostmaiden/ROTF.png</set>
 			<set name="author" abbreviation="WOTC" url="http://dnd.wizards.com">Wizards of the Coast</set>
 			<set name="official">true</set>
 			<set name="supplement">true</set>

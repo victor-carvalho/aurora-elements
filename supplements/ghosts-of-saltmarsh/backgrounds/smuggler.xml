@@ -3,7 +3,7 @@
 	<info>
 		<name>Smuggler Background</name>
 		<update version="0.0.3">
-			<file name="smuggler.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/ghosts-of-saltmarsh/backgrounds/smuggler.xml" />
+			<file name="smuggler.xml" url="https://raw.githubusercontent.com/victor-carvalho/aurora-elements/master/supplements/ghosts-of-saltmarsh/backgrounds/smuggler.xml" />
 		</update>
 	</info>
 	

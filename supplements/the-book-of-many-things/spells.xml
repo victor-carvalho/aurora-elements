@@ -3,7 +3,7 @@
 	<info>
 		<name>Spells from The Book of Many Things</name>
 		<update version="0.0.1">
-			<file name="spells.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/the-book-of-many-things/spells.xml" />
+			<file name="spells.xml" url="https://raw.githubusercontent.com/victor-carvalho/aurora-elements/master/supplements/the-book-of-many-things/spells.xml" />
 		</update>
 	</info>
 

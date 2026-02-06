@@ -3,7 +3,7 @@
 	<info>
 		<name>Deep Gnome</name>
 		<update version="0.0.1">
-			<file name="race-deep-gnome.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/monsters-of-the-multiverse/race-deep-gnome.xml" />
+			<file name="race-deep-gnome.xml" url="https://raw.githubusercontent.com/victor-carvalho/aurora-elements/master/supplements/monsters-of-the-multiverse/race-deep-gnome.xml" />
 		</update>
 	</info>
 

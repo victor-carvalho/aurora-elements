@@ -5,7 +5,7 @@
 		<description>The Gem Dragonborn from Fizban's Treasury of Dragons</description>
 		<author url="https://dnd.wizards.com/products/treasury-dragons">Fizban's Treasury of Dragons</author>
 		<update version="0.0.2">
-			<file name="race-gem-dragonborn.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/fizbans-treasury-of-dragons/races/race-gem-dragonborn.xml" />
+			<file name="race-gem-dragonborn.xml" url="https://raw.githubusercontent.com/victor-carvalho/aurora-elements/master/supplements/fizbans-treasury-of-dragons/races/race-gem-dragonborn.xml" />
 		</update>
 	</info>
 	<element name="Dragonborn (Gem)" type="Race" source="Fizban's Treasury of Dragons" id="ID_WOTC_FTOD_RACE_GEM_DRAGONBORN">

@@ -3,7 +3,7 @@
 	<info>
 		<name>Feats from Dragonlance: Shadow of the Dragon Queen</name>
 		<update version="0.0.1">
-			<file name="feats.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/dragonlance-shadow-of-the-dragon-queen/feats.xml" />
+			<file name="feats.xml" url="https://raw.githubusercontent.com/victor-carvalho/aurora-elements/master/supplements/dragonlance-shadow-of-the-dragon-queen/feats.xml" />
 		</update>
 	</info>
 

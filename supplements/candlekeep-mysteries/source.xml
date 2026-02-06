@@ -2,7 +2,7 @@
 <elements>
 	<info>
 		<update version="0.0.2">
-			<file name="source.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/candlekeep-mysteries/source.xml" />
+			<file name="source.xml" url="https://raw.githubusercontent.com/victor-carvalho/aurora-elements/master/supplements/candlekeep-mysteries/source.xml" />
 		</update>
 	</info>	
 	<element name="Candlekeep Mysteries" type="Source" source="Core" id="ID_WOTC_SOURCE_CANDLEKEEP_MYSTERIES">
@@ -17,7 +17,7 @@
 		<setters>
 			<set name="abbreviation">CM</set>
 			<set name="url">https://dnd.wizards.com/products/candlekeep-mysteries</set>
-			<set name="image">https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/candlekeep-mysteries/CM.png</set>
+			<set name="image">https://raw.githubusercontent.com/victor-carvalho/aurora-elements/master/supplements/candlekeep-mysteries/CM.png</set>
 			<set name="author" abbreviation="WOTC" url="http://dnd.wizards.com">Wizards of the Coast</set>
 			<set name="official">true</set>
 			<set name="supplement">true</set>

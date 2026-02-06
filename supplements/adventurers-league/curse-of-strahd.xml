@@ -4,7 +4,7 @@
 		<name>Curse of Strahd: Optional Backgrounds</name>
 		<description>A Collection of Backgrounds for Season 4 of the Adventurers League as part of the Curse of Strahd storyline</description>
 		<update version="0.0.1">
-			<file name="curse-of-strahd.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/adventurers-league/curse-of-strahd.xml" />
+			<file name="curse-of-strahd.xml" url="https://raw.githubusercontent.com/victor-carvalho/aurora-elements/master/supplements/adventurers-league/curse-of-strahd.xml" />
 		</update>
 	</info>	
 

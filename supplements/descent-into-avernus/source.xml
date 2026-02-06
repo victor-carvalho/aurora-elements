@@ -2,7 +2,7 @@
 <elements>
 	<info>
 		<update version="0.0.2">
-			<file name="source.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/descent-into-avernus/source.xml" />
+			<file name="source.xml" url="https://raw.githubusercontent.com/victor-carvalho/aurora-elements/master/supplements/descent-into-avernus/source.xml" />
 		</update>
 	</info>	
 	<element name="Baldur’s Gate: Descent into Avernus" type="Source" source="Core" id="ID_WOTC_SOURCE_BALDURS_GATE_DESCENT_INTO_AVERNUS">
@@ -20,7 +20,7 @@
 		<setters>
 			<set name="abbreviation">BGDIA</set>
 			<set name="url">https://dnd.wizards.com/products/tabletop-games/rpg-products/baldursgate_descent</set>
-			<set name="image">https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/descent-into-avernus/BGDIA.png</set>
+			<set name="image">https://raw.githubusercontent.com/victor-carvalho/aurora-elements/master/supplements/descent-into-avernus/BGDIA.png</set>
 			<set name="author" abbreviation="WOTC" url="http://dnd.wizards.com">Wizards of the Coast</set>
 			<set name="official">true</set>
 			<set name="supplement">true</set>

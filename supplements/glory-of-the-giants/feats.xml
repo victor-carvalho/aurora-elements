@@ -2,7 +2,7 @@
 <elements>
 	<info>
 		<update version="0.0.2">
-			<file name="feats.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/glory-of-the-giants/feats.xml" />
+			<file name="feats.xml" url="https://raw.githubusercontent.com/victor-carvalho/aurora-elements/master/supplements/glory-of-the-giants/feats.xml" />
 		</update>
 	</info>
 

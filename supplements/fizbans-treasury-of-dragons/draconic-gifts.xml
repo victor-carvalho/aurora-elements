@@ -2,7 +2,7 @@
 <elements>
 	<info>
 		<update version="0.0.1">
-			<file name="draconic-gifts.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/fizbans-treasury-of-dragons/draconic-gifts.xml" />
+			<file name="draconic-gifts.xml" url="https://raw.githubusercontent.com/victor-carvalho/aurora-elements/master/supplements/fizbans-treasury-of-dragons/draconic-gifts.xml" />
 		</update>
 	</info>
 	<element name="Draconic Familiar" type="Magic Item" source="Fizban's Treasury of Dragons" id="ID_WOTC_FTOD_MAGIC_ITEM_DRACONIC_FAMILIAR">

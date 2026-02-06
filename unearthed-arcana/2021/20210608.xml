@@ -3,7 +3,7 @@
 	<info>
 		<name>Unearthed Arcana: Mages of Strixhaven</name>
 		<update version="0.0.1">
-			<file name="20210608.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/unearthed-arcana/2021/20210608.xml" />
+			<file name="20210608.xml" url="https://raw.githubusercontent.com/victor-carvalho/aurora-elements/master/unearthed-arcana/2021/20210608.xml" />
 		</update>
 	</info>
 

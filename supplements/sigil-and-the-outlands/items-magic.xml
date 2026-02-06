@@ -3,7 +3,7 @@
 	<info>
 		<name>Magic Items from Sigil and the Outlands</name>
 		<update version="0.0.1">
-			<file name="items-magic.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/sigil-and-the-outlands/items-magic.xml" />
+			<file name="items-magic.xml" url="https://raw.githubusercontent.com/victor-carvalho/aurora-elements/master/supplements/sigil-and-the-outlands/items-magic.xml" />
 		</update>
 	</info>
 

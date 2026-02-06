@@ -2,7 +2,7 @@
 <elements>
 	<info>
 		<update version="0.0.2">
-			<file name="source.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/critical-role-call-of-the-netherdeep/source.xml" />
+			<file name="source.xml" url="https://raw.githubusercontent.com/victor-carvalho/aurora-elements/master/supplements/critical-role-call-of-the-netherdeep/source.xml" />
 		</update>
 	</info>
 	<element name="Critical Role: Call of the Netherdeep" type="Source" source="Core" id="ID_WOTC_CRCN_SOURCE_CR_CALL_OF_THE_NETHERDEEP">
@@ -22,7 +22,7 @@
 		<setters>
 			<set name="abbreviation">CRCN</set>
 			<set name="url">https://dnd.wizards.com/products/call-netherdeep</set>
-			<set name="image">https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/critical-role-call-of-the-netherdeep/CRCN.png</set>
+			<set name="image">https://raw.githubusercontent.com/victor-carvalho/aurora-elements/master/supplements/critical-role-call-of-the-netherdeep/CRCN.png</set>
 			<set name="author" abbreviation="WOTC" url="http://dnd.wizards.com">Wizards of the Coast</set>
 			<set name="official">true</set>
 			<set name="supplement">true</set>

@@ -3,7 +3,7 @@
 	<info>
 		<name>Magic Items from Keys From The Golden Vault</name>
 		<update version="0.0.1">
-			<file name="items.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/keys-from-the-golden-vault/items.xml" />
+			<file name="items.xml" url="https://raw.githubusercontent.com/victor-carvalho/aurora-elements/master/supplements/keys-from-the-golden-vault/items.xml" />
 		</update>
 	</info>
 

@@ -3,7 +3,7 @@
 	<info>
 		<name>Owlin</name>
 		<update version="0.0.1">
-			<file name="race-owlin.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/strixhaven-a-curriculum-of-chaos/race-owlin.xml" />
+			<file name="race-owlin.xml" url="https://raw.githubusercontent.com/victor-carvalho/aurora-elements/master/supplements/strixhaven-a-curriculum-of-chaos/race-owlin.xml" />
 		</update>
 	</info>
 	<element name="Owlin" type="Race" source="Strixhaven: A Curriculum Of Chaos" id="ID_WOTC_SCOC_RACE_OWLIN">
